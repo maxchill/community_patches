@@ -7,3 +7,4 @@
 00007-Enable-WiFi-and-4G-calling.patch
 00009-disable-agps.patch
 00010-move-statusbar-clock-back-to-rhs.patch
+00011-cloudflare-dns.patch
