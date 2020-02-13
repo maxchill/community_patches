@@ -8,3 +8,4 @@
 00009-disable-agps.patch
 00010-move-statusbar-clock-back-to-rhs.patch
 00011-cloudflare-dns.patch
+00012-magisk_mkbootfs.patch
