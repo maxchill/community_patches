@@ -2,3 +2,9 @@
 00002-global-sensors-permission-toggle.patch
 00003-disable-menu-entries-in-recovery.patch
 00004-increase-default-maximum-password-length.patch
+00005-enable-powersaving-features.patch
+00006-use-quad9-dns.patch
+00007-Enable-WiFi-and-4G-calling.patch
+00009-disable-agps.patch
+00010-move-statusbar-clock-back-to-rhs.patch
+00011-cloudflare-dns.patch
